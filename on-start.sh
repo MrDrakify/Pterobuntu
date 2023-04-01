@@ -4,4 +4,5 @@ HOMEA="$HOME/linux/.apt"
 
 echo -e "VM Started!"
 
+su container
 sudo bash
